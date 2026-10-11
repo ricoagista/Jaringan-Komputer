@@ -25,12 +25,19 @@ Jaringan-Komputer/
 | Modul | Topik | Materi / File |
 |-------|-------|---------------|
 | [Modul 0](./modul_0/) | Setup & Pendahuluan | - |
-| [Modul 1](./modul_1/) | IP Addressing & Subnetting | • `Modul 1 - IP Addressing & Subnetting.pdf`<br>• `Modul-1-Jarkom.pdf`<br>• `Assignment-Rico-202410370110433.pka` |
+| [Modul 1](./modul_1/) | IP Addressing & Subnetting | • `Modul 1 - IP Addressing & Subnetting.pdf`<br>• `Modul-1-Jarkom.pdf`<br>• `Assignment-Rico-202410370110433.pka`<br>• `Demo-Rico-202410370110433.pka` |
 | [Modul 2](./modul_2/) | - | - |
 | [Modul 3](./modul_3/) | - | - |
 | [Modul 4](./modul_4/) | - | - |
 | [Modul 5](./modul_5/) | - | - |
 | [Modul 6](./modul_6/) | - | - |
+
+---
+
+## 📄 Dokumen Tambahan
+
+- `VLSM_Design.md` → Dokumentasi desain VLSM
+- `VLSM_Implementation_Summary.txt` → Ringkasan implementasi VLSM
 
 ---
 
