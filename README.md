@@ -10,7 +10,7 @@ Dokumentasi pembelajaran praktikum mata kuliah **Jaringan Komputer**. Repository
 Jaringan-Komputer/
 ├── modul_0/   → Setup & Pendahuluan
 ├── modul_1/   → IP Addressing & Subnetting
-├── modul_2/   → Routing & Switching Dasar
+├── modul_2/   → Switch Concepts, VLANs, and Inter-VLAN Routing
 ├── modul_3/   → Routing Dinamis & Protokol Jaringan
 ├── modul_4/   → Layanan Jaringan (DHCP, DNS, Web Server)
 ├── modul_5/   → Network Security & Access Control List (ACL)
@@ -26,7 +26,7 @@ Jaringan-Komputer/
 |-------|-------|---------------|
 | [Modul 0](./modul_0/) | Setup & Pendahuluan | - |
 | [Modul 1](./modul_1/) | IP Addressing & Subnetting | • `Modul 1 - IP Addressing & Subnetting.pdf`<br>• `Modul-1-Jarkom.pdf`<br>• `Assignment-Rico-202410370110433.pka`<br>• `Demo-Rico-202410370110433.pka` |
-| [Modul 2](./modul_2/) | Switch Concepts, VLANs, and Inter-VLAN Routing | • `Modul 2 - Switch Concepts, VLANs, and Inter-VLAN Routing.pdf`<br>• `Assignment-Rico-433.pdf`<br>• `Assignment-Rico-433.pka`<br>• `CODELAB-1.pka` |
+| [Modul 2](./modul_2/) | Switch Concepts, VLANs, and Inter-VLAN Routing | • `Modul 2 - Switch Concepts, VLANs, and Inter-VLAN Routing.pdf`<br>• `Assignment-Rico-433.pdf`<br>• `Assignment-Rico-433.pka`<br>• `CODELAB-1.pka`<br>• `DEMO-3.6.1-Implement-VLANs-and-Trunking.pka` |
 | [Modul 3](./modul_3/) | - | - |
 | [Modul 4](./modul_4/) | - | - |
 | [Modul 5](./modul_5/) | - | - |
